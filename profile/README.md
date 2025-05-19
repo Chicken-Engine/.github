@@ -7,4 +7,4 @@
 There's no schedule really, it's mainly when it's ready it's out.
 I like to finish and get rid of any bugs I find before releasing it but I'm not always going to find every single bug, that's why I have the crash log sender.
 
-![Chicken with shoes](assets/chicken.gif)
+![Chicken with shoes](../assets/chicken.gif)
