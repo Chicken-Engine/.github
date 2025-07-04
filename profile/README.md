@@ -1,7 +1,7 @@
-# `Chickn Engine`
+# `Chicken Engine`
 
-## What is `Chickn Engine`?
-`Chickn Engine` is a [FNF](https://www.newgrounds.com/portal/view/770371) engine entirely build from the [week 7 release of the game.](https://github.com/FunkinCrew/Funkin/tree/legacy/0.2.x)
+## What is `Chicken Engine`?
+`Chicken Engine` is a [FNF](https://www.newgrounds.com/portal/view/770371) engine entirely build from the [week 7 release of the game.](https://github.com/FunkinCrew/Funkin/tree/legacy/0.2.x)
 
 ## When should we expect releases?
 There's no schedule really, it's mainly when it's ready it's out.
