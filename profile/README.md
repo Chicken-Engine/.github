@@ -1,10 +1,17 @@
-# `Chicken Engine`
+# Chicken Engine
 
-## What is `Chicken Engine`?
-`Chicken Engine` is a [FNF](https://www.newgrounds.com/portal/view/770371) engine entirely build from the [v0.2.1.1 release of the game.](https://github.com/FunkinCrew/Funkin/tree/v0.2.1.1)
+### What is Chicken Engine?
+Chicken Engine is an [FNF](https://www.newgrounds.com/portal/view/770371) engine entirely build from the [v0.2.1.1](https://github.com/FunkinCrew/Funkin/tree/v0.2.1.1) release of the game.
 
-## When should we expect releases?
-There's no schedule really, it's mainly when it's ready it's out.
-I like to finish and get rid of any bugs I find before releasing it but I'm not always going to find every single bug, that's why I have the crash log sender.
+### Current Status
+Chicken Engine is being actively worked on with much features planned, but plans for those features could change so don't expect everything we say to be final.
 
-![Chicken with shoes](../assets/chicken.gif)
+### This is what we've currently gotten done (most things said here will most likely be changed):
+* Custom / Redirect Statse
+* HScript Functionality
+* Custom Stages
+* Custom Characters
+* Better Icon Support
+* Better Character Support
+
+![teto](https://static.klipy.com/ii/4e7bea9f7a3371424e6c16ebc93252fe/b0/27/qRgyAWJhqkU3oSQ6.gif)
