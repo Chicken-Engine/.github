@@ -1,12 +1,12 @@
 # Queer Engine
 
 ### What is Queer Engine?
-Queer Engine is an [FNF](https://www.newgrounds.com/portal/view/770371) engine entirely build from the [v0.2.7](https://github.com/FunkinCrew/Funkin/tree/v0.2.7) release of the game.
+Queer Engine is an [Friday Night Funkin'](https://www.newgrounds.com/portal/view/770371) engine entirely build from the ground up.
 
 ### Current Status
-Queer Engine is being actively worked on with much features planned, but plans for said features could change during development, so don't expect everything we say now to be entirely final.
+Queer Engine is actively worked on with many features planned, but those plans could change during development, so I wouldn't expect everything we say right now to be entirely final.
 
-### This is what we are currently planning so far:
+### This is what we are publicly disclosing so far:
 ###### (again, these could change in the future!)
 
 ---
